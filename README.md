@@ -15,9 +15,9 @@ Program to design a half adder and full adder circuit and verify its truth table
 
 using Verilog programming.
 
-Developed by: Dario G
+Developed by: GOKUL.M
 
-registerNumber: 212222230027
+registerNumber: 212222230037
 
 
 module bcd(input [3:0] bin_in, output reg [3:0] bcd_out);
